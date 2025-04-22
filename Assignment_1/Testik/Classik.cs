@@ -1,0 +1,7 @@
+﻿namespace Testik
+{
+    class Classik
+    {
+
+    }
+}
